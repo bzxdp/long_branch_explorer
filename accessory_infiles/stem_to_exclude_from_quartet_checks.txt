@@ -1,0 +1,5 @@
+PLACO: hoilungia_hongkongensis trichoplax_adhaerens   
+CTENO: bathyctena_chuni beroe_sp haeckelia_rubra bolinopsis_microptera cestum_veneris velamen_parallelum_busco  eurhamphaea_sp  deiopea_kaloktenota  leucothea_multicornis   mnemiopsis_leydi  ocyropsis_sp   hormiphora_sp  callianira_bialata   lampea_pancerina  vallicula_multiformis  mertensia_ovum vampyroctena_delmarvensis    
+HEX: aphrocallistes_beatrix bolosoma_cynae corbitella_plagiariorum  oopsacas_minuta    
+OUT: capsaspora_owczarzaki ministeria_vibrans  pigoraptor_chileana pigoraptor_vietnamica acanthoeca_spectabilis salpingoeca_dolichothecata codosiga_hollandica choanoeca_perplexa hartaetosiga_balthica microstomoeca_roanoka  salpingoeca_infusionum   salpingoeca_qverii  salpingoeca_helianthica salpingoeca_punica    didymoeca_costata  diaphanoeca_grandis  stephanoeca_diplocostata
+

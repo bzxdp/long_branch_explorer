@@ -1,0 +1,39 @@
+CNID:  acropora_palmata pocillopora_verrucosa ricordea_florida diadumene_lineata metridium_senile nematostella_vectensis muricea_muricata aurelia_aurita pseudorhiza_haeckeli rhopilema_esculentum  pelagia_noctiluca  morbakka_virulenta candelabrum_cocksii hydra_vulgaris clytia_haemispherica hydractinia_symbiolongicarpus haliclystus_octoradiatus
+
+CNID_A: acropora_palmata pocillopora_verrucosa ricordea_florida diadumene_lineata metridium_senile nematostella_vectensis muricea_muricata
+
+CNID_B: aurelia_aurita pseudorhiza_haeckeli rhopilema_esculentum  pelagia_noctiluca  morbakka_virulenta candelabrum_cocksii hydra_vulgaris clytia_haemispherica hydractinia_symbiolongicarpus haliclystus_octoradiatus
+
+BILAT:  branchiostoma_lanceolatum callorhinchus_milii homo_sapiens danio_rerio ciona_intestinalis florometra_serratus strongylocentrotus_purpuratus rhabdopleura_compacta capitella_teleta owenia_fusiformis lingula_anatina crassostrea_gigas lottia_gigantea  daphnia_pulex tribolium_castaneum  parasteatoda_tepidariorum  halicryptus_spinosus     
+
+CHORD: branchiostoma_lanceolatum callorhinchus_milii homo_sapiens danio_rerio ciona_intestinalis
+
+AMB: florometra_serratus strongylocentrotus_purpuratus rhabdopleura_compacta
+
+DEUT: florometra_serratus strongylocentrotus_purpuratus rhabdopleura_compacta branchiostoma_lanceolatum callorhinchus_milii homo_sapiens danio_rerio ciona_intestinalis
+
+LOPHO: capitella_teleta owenia_fusiformis lingula_anatina crassostrea_gigas lottia_gigantea
+
+ECDYSO: daphnia_pulex tribolium_castaneum  parasteatoda_tepidariorum  halicryptus_spinosus 
+
+PROTOST: daphnia_pulex tribolium_castaneum  parasteatoda_tepidariorum  halicryptus_spinosus capitella_teleta owenia_fusiformis lingula_anatina crassostrea_gigas lottia_gigantea
+
+PLACO: hoilungia_hongkongensis trichoplax_adhaerens   
+
+CTENO: bathyctena_chuni beroe_sp haeckelia_rubra bolinopsis_microptera cestum_veneris velamen_parallelum_busco  eurhamphaea_sp  deiopea_kaloktenota  leucothea_multicornis   mnemiopsis_leydi  ocyropsis_sp   hormiphora_sp  callianira_bialata   lampea_pancerina  vallicula_multiformis  mertensia_ovum vampyroctena_delmarvensis    
+
+SILICEA: amphimedon_queenslandica petrosia_ficiformis  ephidatia_mulleri halichondra_panicea   chondrosia_reniformis dysidea_avara   
+
+HEX: aphrocallistes_beatrix bolosoma_cynae corbitella_plagiariorum  oopsacas_minuta    
+
+HOMO: corticum_candelabrum_busco plakina_jani oscarella_lobularis  
+
+CALC: grantia_compressa sycon_ciliatum  leuconia_nivea  leucosolenia_botryoides    
+
+PORI: grantia_compressa sycon_ciliatum  leuconia_nivea  leucosolenia_botryoides  corticum_candelabrum_busco plakina_jani  oscarella_lobularis aphrocallistes_beatrix bolosoma_cynae corbitella_plagiariorum  oopsacas_minuta amphimedon_queenslandica petrosia_ficiformis  ephidatia_mulleri halichondra_panicea   chondrosia_reniformis dysidea_avara   
+
+HOLO: capsaspora_owczarzaki ministeria_vibrans  pigoraptor_chileana pigoraptor_vietnamica    
+
+CHOANO: acanthoeca_spectabilis salpingoeca_dolichothecata codosiga_hollandica choanoeca_perplexa hartaetosiga_balthica microstomoeca_roanoka  salpingoeca_infusionum   salpingoeca_qverii  salpingoeca_helianthica salpingoeca_punica    didymoeca_costata  diaphanoeca_grandis  stephanoeca_diplocostata
+
+OUT: capsaspora_owczarzaki ministeria_vibrans  pigoraptor_chileana pigoraptor_vietnamica acanthoeca_spectabilis salpingoeca_dolichothecata codosiga_hollandica choanoeca_perplexa hartaetosiga_balthica microstomoeca_roanoka  salpingoeca_infusionum   salpingoeca_qverii  salpingoeca_helianthica salpingoeca_punica    didymoeca_costata  diaphanoeca_grandis  stephanoeca_diplocostata
